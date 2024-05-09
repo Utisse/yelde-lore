@@ -9,7 +9,8 @@ Anno 234. Nel prospero regno di [[Luoghi/Eldoria\|Eldoria]], la pace pende su lâ
 * [[Luoghi/Mitoria\|Mitoria]]
  
 # NPC
- - [[Personaggi/Conte di Rendot, Aoth\|Conte di Rendot, Aoth]]
+* [[Personaggi/Erman Ofaun\|Erman Ofaun]]
+- [[Personaggi/Conte di Rendot, Aoth\|Conte di Rendot, Aoth]]
  
 # Religioni
 * [[Lore/Foresta Rubea\|Foresta Rubea]]
