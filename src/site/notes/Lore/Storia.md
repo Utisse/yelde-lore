@@ -14,3 +14,5 @@ Nel regno lussureggiante di Eldoria, la pace pende su l’ago di una bilancia de
 * [[Personaggi/Gelsey Bordodiluna\|Gelsey Bordodiluna]]
 * [[Personaggi/Nulara Ramesses Ryfar\|Nulara Ramesses Ryfar]]
 * [[Personaggi/Tond Ramesses\|Tond Ramesses]]
+# Religioni
+* [[Lore/Foresta Rubea\|Foresta Rubea]]
