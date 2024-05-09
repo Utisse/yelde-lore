@@ -17,4 +17,5 @@ Commercio: è possibile trovare di tutto, anche qualcosa di illegale.
 Organizzazioni: Molti templi e le case del lavoro per ogni mestiere che si rispetti (fungono da fondo pensionistico e pretendono una tassazione, sono eletti e sono la carica più potente a cui un (quasi) semplice cittadino può aspirare).
 
 %% PER IL DM!!! 
-Descrizione: #todo
+
+Descrizione: 
