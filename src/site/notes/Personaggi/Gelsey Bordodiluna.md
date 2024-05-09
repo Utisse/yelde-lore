@@ -4,4 +4,8 @@
 
 #npc 
 ![GelseyBordodiluna.png](/img/user/Images/GelseyBordodiluna.png)
-Porta una bandana rossa per tenere indietro i capelli mentre serve le birre ed ha una cicatrice sulla guancia destra che sembra ormai molto vecchia. Ha capelli lunghi e nero pece, la pelle verdastra, le orecchie a punta, tipiche dei mezzorchi. Desidera prepararsi al peggio e sa che in paese tutti la odiano e ha paura del giorno in cui verrà cacciata.
+Porta una bandana rossa per tenere indietro i capelli mentre serve le birre ed ha una cicatrice sulla guancia destra che sembra ormai molto vecchia. Ha capelli lunghi e nero pece, la pelle verdastra, le orecchie a punta, tipiche dei mezzorchi. 
+
+%% PER IL DM!!! 
+
+Desidera prepararsi al peggio e sa che in paese tutti la odiano e ha paura del giorno in cui verrà cacciata.
